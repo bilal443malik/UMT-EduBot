@@ -2,7 +2,7 @@
 I have Developed Edu-Bot for UMT (for my University in my FYP) in which Teacher Can Add Course Content in the form pdfs and add a List of Student Ids (Students Enrolled in the Respective Course) and then those Students log-in with their University IDs (University Emails) and Select the Course in which they are enrolled and then chat with the bot. 
 
 #Creating Embeddings by using Sentence Transformer 
-I have Used Langchian_Embdedings for creating the Embeddings and save this to the FAISS (Facebook Artificial Intelligence Semilarity Search) 
+I have Used Langchian_Embdedings for creating the Embeddings and save this to the FAISS (Facebook Artificial Intelligence Semilarity Search)  
 
 #Saving the Embeddings Locally 
 I have save these embeddings locally in my repository with the name of that Document (In my case I have Used the Course Code by which Folder is created and embeddings are saved there)
